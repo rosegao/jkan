@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 3b6f9cd905e0f3bb1785
+gatekeeper_host: https://civic-tech-jkan.herokuapp.com
 
 # Dataset schema
 schema: default
