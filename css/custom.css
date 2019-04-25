@@ -1,9 +1,12 @@
 body {
-  background-color: violet;
+  background-color: white;
 }
 
 .homepage-categories,
 .theme-gallery {
   text-align: center;
-  margin: 0 100px;
+}
+
+.thumbnail {
+    margin: 0 100px;
 }
