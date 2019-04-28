@@ -6,15 +6,16 @@ body {
 .homepage-categories,
 .theme-gallery {
   text-align: center;
-  border-radius: 50px;
 }
 
 .thumbnail {
     margin: 0 100px;
+    border-radius: 50px;
 }
 
 .btn-primary {
-	background-color: gold;
+	background-color: pink;
+  border-radius: 50px;
 }
 
 .jumbotron{
