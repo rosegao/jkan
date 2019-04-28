@@ -23,3 +23,7 @@ body {
 .jumbotron{
 	border-radius: 50px;
 }
+
+h3 {
+  background-color: white;
+}
