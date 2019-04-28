@@ -6,7 +6,7 @@ body {
 .homepage-categories,
 .theme-gallery {
   text-align: center;
-  border-radius: 275px;
+  border-radius: 50px;
 }
 
 .thumbnail {
@@ -17,6 +17,6 @@ body {
 	background-color: gold;
 }
 
-div.jumbotron{
+.jumbotron{
 	border-radius: 50px;
 }
