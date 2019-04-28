@@ -17,7 +17,7 @@ body {
 .btn,
 .btn-primary,
 .btn-lg {
-	background-color: hot pink;
+	background-color: purple;
   border-radius: 50px;
   box-shadow: 10px 10px 5px grey;
 }
