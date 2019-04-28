@@ -6,6 +6,7 @@ body {
 .homepage-categories,
 .theme-gallery {
   text-align: center;
+  border-radius: 25px;
 }
 
 .thumbnail {
@@ -15,4 +16,6 @@ body {
 .btn-primary {
 	background-color: gold;
 }
+
+
 
