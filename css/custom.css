@@ -20,6 +20,7 @@ body {
 .btn-sm,
 .btn-default {
 	background-color: purple;
+  border-color: indigo;
   border-radius: 50px;
   box-shadow: 10px 10px 5px grey;
 }
