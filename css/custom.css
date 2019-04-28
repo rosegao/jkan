@@ -17,8 +17,6 @@ body {
 	background-color: gold;
 }
 
-.container .jumbotron, 
-.container-fluid .jumbotron{
-	border-radius: 275px;
+div.jumbotron{
+	border-radius: 50px;
 }
-
