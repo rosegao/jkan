@@ -14,8 +14,10 @@ body {
     border-radius: 50px;
 }
 
-.btn-primary {
-	background-color: pink;
+.btn,
+.btn-primary,
+.btn-lg {
+	background-color: hot pink;
   border-radius: 50px;
   box-shadow: 10px 10px 5px grey;
 }
