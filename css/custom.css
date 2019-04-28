@@ -17,5 +17,7 @@ body {
 	background-color: gold;
 }
 
-
+.jumbotron {
+	border-radius: 275px;
+}
 
