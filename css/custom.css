@@ -8,6 +8,7 @@ body {
   text-align: center;
 }
 
+.homepage-categories,
 .thumbnail {
     margin: 0 100px;
     border-radius: 50px;
