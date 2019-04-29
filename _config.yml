@@ -1,5 +1,5 @@
 title: JKAN
-greeting: Civic Tech Project: Chicago Rideshare
+greeting: Civic Tech Project - Chicago Rideshare
 description: A data directory for Chicago rideshare data, traffic data, red light violation data, and pothole data.
 baseurl: https://rosegao.github.io/jkan/
 logo: /img/jkan.png
