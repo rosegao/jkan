@@ -35,13 +35,11 @@ h3 {
   padding: 20px;
   border-style: outset;
   border-color: indigo;
+  color: purple;
+  text-transform: uppercase;
 }
 
 a {
     color: purple;
     text-transform: uppercase;
-}
-
-dataset {
-  background-color: white;
 }
